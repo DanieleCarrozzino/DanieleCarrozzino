@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![banner](https://github.com/DanieleCarrozzino/DanieleCarrozzino/assets/51740054/ce088287-b436-4c59-abb0-5a986e052d76)
+
 <!--
 **DanieleCarrozzino/DanieleCarrozzino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
